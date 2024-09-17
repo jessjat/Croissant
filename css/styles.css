@@ -3,6 +3,8 @@ body{
 }
 h1{
     text-align: center;
+    color: red;
+    font-size: larger;
 }
 a{
     text-align:center
